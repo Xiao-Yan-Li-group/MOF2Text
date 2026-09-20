@@ -32,7 +32,7 @@ prompt = get_prompt(cif)
 Update the following entry when the associated publication becomes available:
 
 ```bibtex
-@misc{mofclassifier2,
+@misc{mof2text,
       title={Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models}, 
       author={Guobin Zhao and Xiao-Yan Li},
       year={2026},
